@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "title": "michael scott",
+      "body": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "id": 1,
+      "tags": [
+        "boss",
+        "yolo"
+      ]
+    },
+    {
+      "title": "jim halpert",
+      "body": "lorem ipsum awefaerf aewfnaef alwfnawef",
+      "id": 2,
+      "tags": [
+        "pam",
+        "lolbert"
+      ]
+    },
+    {
+      "title": "e",
+      "body": "e",
+      "tags": [
+        "r",
+        "t"
+      ],
+      "id": 3
+    },
+    {
+      "title": "erere",
+      "body": "ergaeg",
+      "tags": [
+        "dfgh",
+        "dfhdhsf",
+        "fghghgh"
+      ],
+      "id": 4
+    }
+  ]
+}
